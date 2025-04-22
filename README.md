@@ -1,32 +1,39 @@
 # VolumeLeaders Starter Kit
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+## Introduction
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+### What is Volume Leaders
 
-### Development
+Volume Leaders is a cloud‑based analytics platform that processes millions of time & sales data points every trading day to surface the largest, market‑moving institutional trades on U.S. exchanges. By ingesting every reported print and enriching it with contextual metrics—historical percentile rank, average trade size, trade conditions, and much, much more—VL delivers insights you simply can’t get from raw exchange feeds or other platforms that claim to be "monitoring dark pools" or "looking for unusual trades".
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+### Key Benefits and Use-Cases
 
-```
-npm i -g mintlify
-```
+- **Front‑Run Major Price Moves**\
+  Spot large block trades and dark‑pool prints before a full market reaction—so you can establish positions ahead of the broader crowd.
+- **Validate Technical Setups with Hard Data**\
+  Rather than relying on chart patterns alone, confirm breakouts, breakdowns or reversal signals by seeing whether real institutions are positioned at key price levels.
+- **Optimize Trading Strategies & Sharpen Risk Management**\
+  Align your trades with the knowledge of where institutions are participating to improve your win rate, capture cleaner risk‑reward setups and to protect capital when you find yourself on the wrong side of institutional positioning.
+- **Build & Backtest Quant Models**\
+  Download enriched time‑and‑sales metadata for thousands of securities—ideal for machine‑learning pipelines or statistical analysis. If you are business with more frequent & real-time needs, inquire about our robust suite of APIs.
+- **Monitor Sector Rotation**\
+  See which sectors and industries are garnering unusual institutional interest—helping you rotate into hot sectors (or dodge weak ones) before the broader indexes catch up.
+- **Event‑Driven Edge**\
+  Whether it's news, earnings, Fed announcements, or geopolitical shocks, you're likely to see institutional positioning before the headlines print. Monitor institutional reallocations and give yourself a data‑driven head start on volatility trades.
+- **Automate Your Workflow**\
+  Configure ultra‑granular, webhook‑ready alerts on any trade—so your systems (or your phone) can instantly ping you when a large buyer or seller shows up in your universe.
 
-Run the following command at the root of your documentation (where docs.json is)
+### Who Should Use This Guide
 
-```
-mintlify dev
-```
+Whether you’re aiming to turn institutional footprints into a trading edge or streamline your workflow with data‑driven alerts, this guide is for you:
 
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard.
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+- **Self‑Directed Traders & Swing Players**\
+  If you’re hunting for timely entries and exits, learn how to validate your technical setups by seeing whether “big money” is on your side—and position yourself ahead of major moves .
+- **Day Traders & Scalpers**\
+  Align your intraday scalps with institutional participation, improving hit‑rates and capturing cleaner, higher‑probability R:R opportunities .
+- **Quantitative Analysts & Algo Developers**\
+  Feed enriched time‑and‑sales metadata into your backtests and ML pipelines to build more robust models and statistical analyses.
+- **Portfolio & Risk Managers**\
+  Define dynamic stop‑loss levels and profit targets based on where institutions are accumulating or distributing, so you can protect capital when markets turn volatile .
+- **Macro Strategists, Trading Teams & Operations**\
+  Positioning always comes before the move. Enhance the lens through which you view the markets by overlaying our rich, algorithmically generated trade-metadata to develop unique  reports that keep your desks in sync, your models fed, and your decision‑makers informed in real time.
