@@ -37,3 +37,22 @@ Whether you’re aiming to turn institutional footprints into a trading edge or 
   Define dynamic stop‑loss levels and profit targets based on where institutions are accumulating or distributing, so you can protect capital when markets turn volatile .
 - **Macro Strategists, Trading Teams & Operations**\
   Positioning always comes before the move. Enhance the lens through which you view the markets by overlaying our rich, algorithmically generated trade-metadata to develop unique  reports that keep your desks in sync, your models fed, and your decision‑makers informed in real time.
+
+## Getting Started
+
+### Registering An Account
+
+<CardGroup cols={2}>
+  <Card title="Step 1. Register" icon="pencil" href="https://www.volumeleaders.com/Register">
+    All newly created accounts with Volume Leaders are completely FREE. With your free account, you get full access to more than a dozen tickers so that you can explore the application and get a feel for things before you ever commit a cent.
+  </Card>
+  <Card title="Step 2. Activate" icon="check" href="/essentials/code">
+    After you submit your registration form, you will receive an automated email that contains an activation link. Click the activation link and you should  be all set. If after 5 minutes you don't see the email, check your SPAM folder.
+  </Card>
+  <Card title="Add Images" icon="image" href="/essentials/images">
+    Add images to your docs to make them more engaging.
+  </Card>
+  <Card title="Add Custom Components" icon="puzzle-piece" href="/essentials/reusable-snippets">
+    Add templates to your docs to make them more reusable.
+  </Card>
+</CardGroup>
