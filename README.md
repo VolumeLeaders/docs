@@ -42,17 +42,17 @@ Whether you’re aiming to turn institutional footprints into a trading edge or 
 
 ### Registering An Account
 
-<CardGroup cols={2}>
+<CardGroup cols="2">
   <Card title="Step 1. Register" icon="pencil" href="https://www.volumeleaders.com/Register">
     All newly created accounts with Volume Leaders are completely FREE. With your free account, you get full access to more than a dozen tickers so that you can explore the application and get a feel for things before you ever commit a cent.
   </Card>
-  <Card title="Step 2. Activate" icon="check" href="/essentials/code">
+  <Card title="Step 2. Activate" icon="check" href="https://www.volumeleaders.com/Login">
     After you submit your registration form, you will receive an automated email that contains an activation link. Click the activation link and you should  be all set. If after 5 minutes you don't see the email, check your SPAM folder.
   </Card>
-  <Card title="Add Images" icon="image" href="/essentials/images">
-    Add images to your docs to make them more engaging.
+  <Card title="Step 3. (Optional) Choose A Plan" icon="clipboard-list" href="https://www.volumeleaders.com/Subscribe">
+    Once logged-in, navigate to "My Subs" located in the header links at the top of the page. This will take you a page where you can manage your subscriptions. Adding a paid subscription will allow you to access tickers beyond the freely provided ones.
   </Card>
-  <Card title="Add Custom Components" icon="puzzle-piece" href="/essentials/reusable-snippets">
-    Add templates to your docs to make them more reusable.
+  <Card title="Step 4. Ready To Go" icon="thumbs-up">
+    Congratulations\! You're now armed with one of the most powerful edges available to retail. In addition to seeing institutional positioning, you'll soon be receiving instructions for joining our very active community of critical thinkers and traders on Discord.
   </Card>
 </CardGroup>
