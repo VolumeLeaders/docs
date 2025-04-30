@@ -14,9 +14,9 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Quick Start",
             "pages": [
-              "introduction",
+              "What is Volume Leaders?",
               "quickstart",
               "development"
             ]
