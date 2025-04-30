@@ -16,7 +16,7 @@
           {
             "group": "Quick Start",
             "pages": [
-              "What is Volume Leaders?",
+              "introduction",
               "quickstart",
               "development"
             ]
